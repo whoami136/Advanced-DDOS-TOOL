@@ -1,6 +1,6 @@
 # Advanced-DDOS-TOOL
 This Tool Is for Educational purposes So Dont missuse it
- Sentry-Loris
+ Sentry-Loris Far better than slowloris more faster more stable works with proxychains after -10k connection it will crash server
 Sentry-Loris is an asynchronous Python-based security tool designed to test the resilience of web servers against Slow HTTP DoS attacks. It specifically implements the "Slowloris" methodology, which operates at the Application Layer (Layer 7) by exhausting a server’s concurrent connection pool.
 
 Key Features:
