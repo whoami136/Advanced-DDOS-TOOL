@@ -1,4 +1,5 @@
-![Screenshot of DDoS toolkit terminal](path/to/Screenshot_2026-06-25_16_12_09.png)
+![Uploading Screenshot_2026-06-25_16_12_09.png…]()
+
 # Advanced-DDOS-TOOL
 This Tool Is for Educational purposes So Dont missuse it
  Sentry-Loris Far better than slowloris more faster more stable works with proxychains after -10k connection it will crash server
