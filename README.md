@@ -23,4 +23,4 @@ cd Advanced-DDOS-TOOL
 ls
 python3  ddos.py -p Port -s socket/packets IP
 Example : python3  ddos.py -p 80 -s 150 102.0.0.1 
-![Screenshot of DDoS toolkit terminal](path/to/Screenshot_2026-06-25_16_12_09.png)
+
